@@ -10,7 +10,7 @@ if x=0
 print("I am right")
 
 print ("trying first")
-
+print ("trying second")
 
 
 ########################Amina###########################

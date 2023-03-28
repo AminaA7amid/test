@@ -1,7 +1,10 @@
 print ("hello")
 int x=1
 print("hi")
+
+x=20
 x=10
+
 
 =======
 int x=9

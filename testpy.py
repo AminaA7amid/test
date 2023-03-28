@@ -12,5 +12,5 @@ print("hello")
 y=6
 
 
-
+z=65
 print("ok")

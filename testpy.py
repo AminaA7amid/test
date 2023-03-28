@@ -10,3 +10,7 @@ x=1
 print("lol")
 print("hello")
 y=6
+
+
+
+print("ok")

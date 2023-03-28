@@ -2,7 +2,7 @@
 x=1
 y=2
 z=2
-
+print("hihi")
 
 
 

@@ -1,11 +1,5 @@
 print ("hello")
-
-
-
-
-
-
-int x=9
+int x=1
 print("hi")
 x=0
 

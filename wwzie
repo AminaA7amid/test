@@ -1,5 +1,14 @@
 print ("hello")
-x=1
-print("i")
+
+
+
+
+
+
+int x=9
+print("hi")
 x=0
 
+=======
+int x=9
+print("hi")

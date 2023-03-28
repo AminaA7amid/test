@@ -18,6 +18,7 @@ print ("trying second")
 int x=0
 int y=1
 z=x+y
+x+z
 
 print("hellooooooooooooooooo")
 

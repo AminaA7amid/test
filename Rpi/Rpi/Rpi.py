@@ -10,8 +10,6 @@ if x=0
 print("I am right")
 
 print ("trying first")
-print ("trying second")
-
 
 
 
@@ -20,3 +18,5 @@ print ("trying second")
 int x=0
 int y=1
 z=x+y
+
+print("hellooooooooooooooooo")

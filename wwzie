@@ -1,3 +1,5 @@
 print ("hello")
 x=1
-print("hi")
+print("i")
+x=0
+

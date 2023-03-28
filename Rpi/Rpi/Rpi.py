@@ -9,6 +9,8 @@ x=1
 if x=0
 print("I am right")
 
+print ("trying first")
+
 
 
 ########################Amina###########################
